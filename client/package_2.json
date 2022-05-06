@@ -2,10 +2,10 @@
   "name": "african-cities-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node ./client/index.js"
+    "start": "node ./client/server.js"
   },
   "author": "",
   "license": "ISC",
