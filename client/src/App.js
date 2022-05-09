@@ -24,7 +24,7 @@ const App = () => {
     <>
     <Navbar />
     <HeaderBlock />
-      <br/>
+      <br/> 
         <Container>
           <Grid container justify="space-between" alignItems="stretch" spacing={3}>
             <Grid item xs={12} sm={7}>

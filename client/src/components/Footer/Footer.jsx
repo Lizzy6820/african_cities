@@ -1,5 +1,5 @@
 import React from 'react'
-import {Facebook,Instagram,Pinterest,Twitter,} from "@material-ui/icons";
+import {Facebook, Instagram, Pinterest, Twitter} from '@material-ui/icons';
 import styled from "styled-components";
 import logo from '../../imagez/logo.jpg';
 import { mobile } from '../../responsive';
@@ -7,7 +7,7 @@ import { mobile } from '../../responsive';
 const Container = styled.div`
     display: flex;
     background-color: #D3D3D3;
-    ${mobile({flexDirection:'column'})}
+    ${mobile({ flexDirection:'column' })}
    
   `;
   
